@@ -1,6 +1,6 @@
 package a.b.c;
 
-public abstract class Compte { //il s'agit d'une class abstraite qui ne peut pas être instancié mais elle peut être herité par l'extends des class fille.
+public abstract class Compte implements ICompte{ //il s'agit d'une class abstraite qui ne peut pas être instancié mais elle peut être herité par l'extends des class fille.
 	private int code; 
 	protected float solde;
 	
