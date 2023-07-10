@@ -1,0 +1,20 @@
+package metier;
+
+public class Compte {
+	private int code;
+	private float solde;
+	private static int nbComptes; 
+	
+	public Compte() {
+		// constructor sans paramètre
+	}
+	public Compte(float s) {
+		// constructor avec parametres
+		++nbComptes;
+		code = nbComptes;
+		solde = s;
+	}
+	
+	
+
+}

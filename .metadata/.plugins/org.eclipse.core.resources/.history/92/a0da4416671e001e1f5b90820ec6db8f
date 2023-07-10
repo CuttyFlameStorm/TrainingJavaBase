@@ -1,0 +1,22 @@
+package metier;
+
+public class Compte {
+	private int code;
+	protected float solde;
+	
+	//Constructor
+	public Compte(int c, float s) {
+		code = c;
+		solde = s;
+	}
+	
+	// Méthode de la class Compte
+	public void verser(float mt) {
+		solde=solde+mt;
+	}
+	public void retirer(float mt) {
+		solde=solede-mt;
+	}
+	
+
+}

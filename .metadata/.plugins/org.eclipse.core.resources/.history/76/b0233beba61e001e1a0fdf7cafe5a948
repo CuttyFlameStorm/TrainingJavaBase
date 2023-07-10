@@ -1,0 +1,18 @@
+package test;
+
+import metier.Compte;
+
+public class Application {
+
+
+	public static void main(String[] args) {
+		Compte c1, c2;
+		
+		c1 = new Compte(7000);
+		c2 = new Compte(6000);
+		
+		System.out.println(c1);
+
+	}
+
+}

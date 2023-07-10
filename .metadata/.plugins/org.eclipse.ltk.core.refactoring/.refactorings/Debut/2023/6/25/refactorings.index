@@ -1,0 +1,11 @@
+1687165533319	Move compilation unit
+1687165605256	Move compilation unit
+1687165609377	Move compilation unit
+1687167341251	Rename type 'GestionD1GroupeEleves'
+1687178982943	Encapsulate field 'nomEnfant'
+1687178993695	Encapsulate field 'nomEnfant'
+1687179002816	Encapsulate field 'nomParent'
+1687179185834	Encapsulate field 'statut'
+1687182532902	Rename compilation unit 'Instituteur.java'
+1687265840869	Move packages
+1687430438013	Rename type 'DessinRectangle'

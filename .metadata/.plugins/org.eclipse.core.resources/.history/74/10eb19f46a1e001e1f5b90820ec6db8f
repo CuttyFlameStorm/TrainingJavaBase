@@ -1,0 +1,11 @@
+package metier;
+
+public class Application {
+
+	public static void main(String[] args) {
+		Compte c1;		
+		c1 = new Compte(1,5000);
+
+	}
+
+}

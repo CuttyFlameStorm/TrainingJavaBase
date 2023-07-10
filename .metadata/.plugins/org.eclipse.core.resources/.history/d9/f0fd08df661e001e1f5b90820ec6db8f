@@ -1,0 +1,13 @@
+package metier;
+
+public class Compte {
+	private int code;
+	protected float solde;
+	
+
+	public Compte(int c, float s) {
+		code = c;
+		solde = s;
+	}
+
+}

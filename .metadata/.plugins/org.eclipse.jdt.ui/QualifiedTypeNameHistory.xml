@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.entite.Eleve"/>
+    <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.entite.Instituteur"/>
+    <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.entite.Parent"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="fr.eni.demonstrationS2.Rectangle"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="fr.eni.demonstrationS2.DessinRectangle"/>
+    <fullyQualifiedTypeName name="fr.eni.demonstrationS2.Dessinable"/>
+    <fullyQualifiedTypeName name="fr.eni.demonstrationS2.Personne"/>
+    <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.demonstration.ClasseException"/>
+    <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.entite.Responsable"/>
+    <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.demonstration.BusException"/>
+</qualifiedTypeNameHistroy>

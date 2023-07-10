@@ -1,0 +1,32 @@
+package metier;
+
+public class Compte {
+	// attribut de la class
+	private int code;
+	private float solde;
+	private static int nbComptes; 
+	
+	// constructor sans paramètre
+	public Compte() {
+	}
+	// constructor avec parametres
+	public Compte(float s) {
+		++nbComptes;
+		code = nbComptes;
+		solde = s;
+	}
+	
+	//Methode verser de la class
+	public void verser(float mt) {
+		solde = solde+mt;
+		System.out.println("vous venez de verser : " + mt);
+	}
+	//Methode retirer de la class
+	public void retirer(float mt) {
+		solde = solde-mt;
+		System.out.println("vous venez de retirer : " + mt);
+	}
+	
+	
+
+}
