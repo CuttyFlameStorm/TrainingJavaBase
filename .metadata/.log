@@ -8299,3 +8299,27 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 17:13:57.342
 !MESSAGE Classpath changed for project: TrainingFondamentalJava_tp3_Exercice_TPCercle
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 18:16:27.888
+!MESSAGE Classpath changed for project: Polymorphisme
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 18:17:05.879
+!MESSAGE Classpath changed for project: Polymorphisme
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 18:17:05.881
+!MESSAGE Classpath changed for project: TrainingFondamentaleJava_tp4_le_Polymorphisme
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 18:17:24.157
+!MESSAGE Classpath changed for project: TrainingFondamentalJava_tp4_le_Polymorphisme
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-11 18:17:24.158
+!MESSAGE Classpath changed for project: TrainingFondamentaleJava_tp4_le_Polymorphisme
+
+!ENTRY Activator 4 0 2023-07-11 18:26:26.634
+!MESSAGE NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.getValue()" because "this.this$0.applications" is null
+	at org.springframework.ide.eclipse.boot.dash.model.LocalBootDashModel$2.bundleChanged(LocalBootDashModel.java:157)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:949)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
