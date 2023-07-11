@@ -2,11 +2,8 @@ package polimorphisme;
 
 public class Orange extends Fruit{
 
-	public Orange() {
-		
-	}
 	public Orange(int p) {
-		int poids = p;
+		poids = p;
 		System.out.println("Création d'une Orange de "+poids+" grammes");
 	
 	}

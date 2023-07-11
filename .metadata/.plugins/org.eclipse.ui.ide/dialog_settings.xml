@@ -4,15 +4,15 @@
 		<item value="C:\Users\ssoeun2023\Downloads\Debogage.zip"/>
 	</list>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 	</section>
 	<section name="SaveAsDialogSettings">
-		<item value="525" key="DIALOG_WIDTH"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-		<item value="580" key="DIALOG_HEIGHT"/>
-		<item value="282" key="DIALOG_X_ORIGIN"/>
-		<item value="136" key="DIALOG_Y_ORIGIN"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="642"/>
+		<item key="DIALOG_X_ORIGIN" value="282"/>
+		<item key="DIALOG_Y_ORIGIN" value="136"/>
 	</section>
 </section>

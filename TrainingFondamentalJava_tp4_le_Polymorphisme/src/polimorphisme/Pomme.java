@@ -2,11 +2,8 @@ package polimorphisme;
 
 public class Pomme extends Fruit{
 
-	public Pomme() {
-		
-	}
 	public Pomme(int p) {
-		int poids = p;
+		poids = p;
 		System.out.println("Création d'une pomme de "+poids+" grammes");
 	
 	}

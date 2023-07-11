@@ -6,7 +6,6 @@ public abstract class Fruit {
 	System.out.println("creation d'un fruit");	
 	}
 	
-	public void affiche() {
-		System.out.println("c'est un fruit");
-	}
+	public abstract void affiche();
+	public abstract void affichePoids(); // cette méthode abstraite sera redéfini dans les classe dérivées soit les class dites filles.
 }
