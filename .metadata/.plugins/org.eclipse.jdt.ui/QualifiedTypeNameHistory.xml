@@ -25,4 +25,7 @@
     <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.demonstration.ClasseException"/>
     <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.entite.Responsable"/>
     <fullyQualifiedTypeName name="fr.eni.ecole.poo.groupeeleves.demonstration.BusException"/>
+    <fullyQualifiedTypeName name="a.b.c.CompteSimple"/>
+    <fullyQualifiedTypeName name="a.b.c.Compte"/>
+    <fullyQualifiedTypeName name="a.b.c.ICompte"/>
 </qualifiedTypeNameHistroy>
