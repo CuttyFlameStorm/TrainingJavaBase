@@ -1,5 +1,6 @@
 package surCCasting_et_sousCasting;
 
+
 import polimorphisme.Fruit;
 import polimorphisme.Orange;
 import polimorphisme.Pomme;
@@ -7,6 +8,7 @@ import polimorphisme.Pomme;
 public class Application {
 
 	public static void main(String[] args) {
+		System.out.println("activation de Application 1");
 		System.out.println("\n instace de Pomme et orange, \non peut acceder directement aux méthodes des différente instance filles \ncar il n'y a pas eu de SUR-CASTING");
 		Pomme p = new Pomme(40);
 		p.affichePoids();
@@ -57,11 +59,7 @@ public class Application {
 		}
 		
 		
-		// ** utilisation d'une Arrays liste qui ne nécessite pas d'être défini en nombre de ligne au depart
-		
-		
-		                         
-		
+	
 		
 
 	}
