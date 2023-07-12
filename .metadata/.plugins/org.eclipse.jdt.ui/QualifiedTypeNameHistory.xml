@@ -29,4 +29,6 @@
     <fullyQualifiedTypeName name="a.b.c.Compte"/>
     <fullyQualifiedTypeName name="a.b.c.ICompte"/>
     <fullyQualifiedTypeName name="figures.Point"/>
+    <fullyQualifiedTypeName name="polimorphisme.Pomme"/>
+    <fullyQualifiedTypeName name="polimorphisme.Orange"/>
 </qualifiedTypeNameHistroy>
