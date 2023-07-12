@@ -14,6 +14,9 @@ public class Compte {
 		this.code = code;
 		this.solde = solde;
 	}
+	public Compte() {
+		super();
+	}
 	
 	//Méthode verser
 	public void verser(float mt) throws NegativeException {
