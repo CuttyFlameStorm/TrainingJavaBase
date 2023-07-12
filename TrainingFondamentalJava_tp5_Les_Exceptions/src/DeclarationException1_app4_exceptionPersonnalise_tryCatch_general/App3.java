@@ -28,12 +28,18 @@ public class App3 {
 			cp.retirer(mt2);	
 			
 			System.out.println("Solde est : "+cp.getSolde());
+			
+			clavier.close();
 		}
 		catch (InputMismatchException e) {
 			System.out.println("Problème de saisi");
 		}
 		catch (Exception e) {
 			System.out.println(e.getMessage());
+		}
+		
+		finally { // se block finally est rarement utilisé. mais l'insertion de ce block permet une exécution du block malgré les erreurs detecté ! ceci peut avoir son importance.
+			System.out.println("Bloc fianlly : Merci de votre visite !");
 		}
 
 	}
