@@ -1,4 +1,4 @@
-package demonstration;
+package A_exempleAvecTryCatch_Demo;
 
 import java.util.Scanner;
 
