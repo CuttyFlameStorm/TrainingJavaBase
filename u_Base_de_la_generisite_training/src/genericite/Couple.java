@@ -33,5 +33,7 @@ public class Couple<T> {
 		this.b = b;
 	}
 	
+	//on utilise une classe generique lorsqu'on utilisera pas toujours les meme type de données
+	
 	
 }
