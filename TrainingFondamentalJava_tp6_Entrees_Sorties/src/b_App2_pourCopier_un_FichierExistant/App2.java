@@ -1,7 +1,6 @@
 package b_App2_pourCopier_un_FichierExistant;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 
@@ -13,7 +12,7 @@ public class App2 {
 		//exemple de copie de ce fichier grace à la class "File".
 		//ici on copie caratere par caractere mais sans criptage
 		File f1 = new File("notes.txt");
-		FileReader fr = new FileReader(f1); //cela neccessite la création d'une Exception car s'il n'y a pas de fichier nommé "notes.txt" cela generera une erreur. 
+		FileReader fr = new FileReader(f1); //cela neccessite la création d'une Exception car s'il n'y a pas de fichier nommé "notes.txt" cela generera une erreur.
 		// nous serons obligé de faire sois try catch, ou soit throws. utilons par exemple un throws.
 		File f2 = new File("copie.txt");
 		FileWriter fw = new FileWriter(f2);

@@ -12,7 +12,7 @@ public class App3 {
 		//exemple de copie de ce fichier grace à la class "File".
 		//ici on copie caratere par caractere avec un criptage des caracteres !
 		File f1 = new File("notes.txt");
-		FileReader fr = new FileReader(f1); //cela neccessite la création d'une Exception car s'il n'y a pas de fichier nommé "notes.txt" cela generera une erreur. 
+		FileReader fr = new FileReader(f1); //cela neccessite la création d'une Exception car s'il n'y a pas de fichier nommé "notes.txt" cela generera une erreur.
 		// nous serons obligé de faire sois try catch, ou soit throws. utilons par exemple un throws.
 		File f2 = new File("copieEncrypt.txt");
 		FileWriter fw = new FileWriter(f2);

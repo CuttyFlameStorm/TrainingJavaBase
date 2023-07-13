@@ -41,7 +41,7 @@ public class App4 {
 		br2.close();
 		// a present on peut afficher la moyenne
 		System.out.println("\nMoyenne de toutes les sommes: " + somme/nb);
-		
+
 
 	}
 
