@@ -15,6 +15,18 @@ public class App3 {
 		
 		// il n'y a que la genericité qui permet d'utliser une classe pour comparer plusieurs
 		// type différents !
+		// on peut egalement effectuer des surcharge de methode.
+		
+		Produit p1 = new Produit();
+		Produit p2 = new Produit();
+		
+		System.out.println(c.comparer(p1, p2));
+		
+		
+		
+		
+		
+		
 		
 	}
 
