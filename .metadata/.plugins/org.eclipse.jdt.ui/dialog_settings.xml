@@ -81,6 +81,7 @@
 		<item key="updateSimilarElements" value="true"/>
 		<item key="updateSimilarElementsMatchStrategy" value="1"/>
 		<item key="updateTextualMatches" value="true"/>
+		<item key="renameSubpackages" value="true"/>
 	</section>
 	<section name="ProblemSeveritiesConfigurationBlock">
 		<item key="expanded2" value="false"/>
@@ -142,7 +143,7 @@
 		<item key="DIALOG_Y_ORIGIN" value="68"/>
 	</section>
 	<section name="RefactoringWizard.preview">
-		<item key="width" value="600"/>
+		<item key="width" value="630"/>
 		<item key="height" value="400"/>
 	</section>
 	<section name="SourceActionDialog.methods">
