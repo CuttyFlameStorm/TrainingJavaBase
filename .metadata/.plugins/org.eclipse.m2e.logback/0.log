@@ -1042,3 +1042,5 @@
 2023-07-14 02:03:03,214 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sidat\eclipse-workspace\u_Base_de_la_generisite_training\src\test\resources
 2023-07-14 02:03:57,840 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-07-14 02:03:57,842 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sidat\eclipse-workspace\u_Base_de_la_generisite_training\src\main\resources
+2023-07-14 02:03:57,844 [Worker-99: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-14 02:03:57,846 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sidat\eclipse-workspace\u_Base_de_la_generisite_training\src\test\resources
